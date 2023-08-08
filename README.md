@@ -10,3 +10,6 @@ Since you're here, you might be: * A employer might go to my website to look at 
 
 ## Design
 I plan on getting my message across by showcasing my resume next to pictures of my project to show what I have done. I also want to add pictures of the anime I like and information about my personality.
+
+## Accessibility
+I'll make everything color blind friendly and make all the fonts readable.
