@@ -1,4 +1,15 @@
 # Pictures
+```{include} _static/play_pause.html
+```
 
-![Tasmanian tiger](_static/img/downloadtiger.jpeg "The Tasmanian tiger")
-![Penguin](_static/img/download28.jpeg "The Mighty Penguin")
+```{card} 
+:class-card: slide
+
+![ "The Tasmanian tiger"](_static/img/downloadtiger.jpeg)
+```
+
+
+```{card} 
+:class-card: slide
+![The Mighty Penguin](_static/img/download28.jpeg)
+``````
